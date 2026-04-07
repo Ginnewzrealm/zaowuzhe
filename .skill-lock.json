@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "skills": {
+    "huashu-nuwa": {
+      "source": "alchaincyf/nuwa-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/alchaincyf/nuwa-skill.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "623bfc21e4aa49272cfe7ccc58d844fd84932e26",
+      "installedAt": "2026-04-07T08:58:40.989Z",
+      "updatedAt": "2026-04-07T08:58:40.989Z"
+    }
+  },
+  "dismissed": {}
+}
